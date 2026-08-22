@@ -1,12 +1,12 @@
 ---
 title: "Fundamentals of Missing Data"
-subtitle: "Faculty Development Program for Universidad César Vallejo, Peru"
+subtitle: "CSTAT webinar series on Responsible and Ethical Conduct of Research, East Lansing, MI"
 author: 
   - name: Steven J. Pierce
     orcid: 0000-0002-0679-3019
     email: pierces1@msu.edu
 institute: "[Center for Statistical Training and Consulting](https://cstat.msu.edu)"
-date: 2026-07-20
+date: 2026-11-05
 title-slide-attributes: 
   data-notes: "1.5 hr (70 min talk + 20 min Q & A) My talk today focuses on 
   some concepts and issues related to missing data in scientific research 
@@ -32,7 +32,7 @@ format:
     slide-number: c/t
     show-notes: false
     header-logo: graphics/Combomark-Horiz_Green-RGB.png
-    footer: <a href="https://github.com/sjpierce/FMD2026">https://github.com/sjpierce/FMD2026</a>
+    footer: <a href="https://github.com/sjpierce/FMD2026v2">https://github.com/sjpierce/FMD2026v2</a>
     logo: graphics/CSTAT_5x5_Transparent.png
     link-external-icon: true
     link-external-newwindow: true

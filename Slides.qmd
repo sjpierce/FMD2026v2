@@ -2026,7 +2026,7 @@ mechanisms, and
 * Short overviews [@El-Masri-RN8683; @Fernández-García-RN4151; @Graham-RN1615; @Little-RN8684; @Newman-RN8223;  @Schafer-RN425] 
 * Some good textbooks [@Enders-RN8673; @Graham-RN2677; @McKnight-RN1296; @van-Buuren-RN3962]
 * Dealing with item-level missingness in scale scores [@Graham-RN1615; @Newman-RN8223]
-* Advanced diagnostics [@Tierney-RN8958; @Weberpals-RN8957]
+* Advanced diagnostics [@Matute-RN9101; @Tierney-RN8958; @Weberpals-RN8957]
 * Preventing missing data in: 
     * Clinical studies [@Wisniewski-RN2978]
     * Longitudinal studies [@Laurie-RN8257]

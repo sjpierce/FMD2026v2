@@ -35,7 +35,7 @@ icon. Use that to download the file to your computer, then open it with
 a web browser.
 
 - [`Slides.html`](https://github.com/sjpierce/FMD2026v2/blob/main/Slides.html)
-  *Most current English version of the slides*.
+  *Most current version of the slides*.
 
 ## Usage Tips
 

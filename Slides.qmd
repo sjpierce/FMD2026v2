@@ -59,7 +59,7 @@ library(piercer)    # for cvv_missingnes(), var_missingness()
 * Why do we end up with missing data? 
 * Why should we care about missing data? 
 * How should we start addressing missing data issues? 
-* How can we diagnose the missing data issues for a given study? 
+* How can we diagnose the missing data issues? 
 * How should we solve missing data issues?
 
 ::::{.notes}
@@ -70,7 +70,7 @@ I've organized this talk around answering a few simple questions. They are:
 * Why do we end up with missing data? 
 * Why should we care about missing data? 
 * How should we start addressing missing data issues? 
-* How can we diagnose the missing data issues for a given study? 
+* How can we diagnose the missing data issues? 
 * How should we solve missing data issues?
 
 :::
@@ -620,7 +620,7 @@ So, TARMOS can be distilled down to three words: plan, conduct, and report.
 :::
 ::::
 
-# How can we diagnose the missing data issues for a given study?  {style="padding: 0.25em .5em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 20px; text-align: left;" background-image="graphics/pexels-fauxels-3184634.jpg" fig-alt="Photo of a team of several people in business suits sitting at a table discussing a report."  background-size="cover" background-position="bottom" background-repeat="no-repeat"}
+# How can we diagnose the missing data issues?  {style="padding: 0.25em .5em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 20px; text-align: left;" background-image="graphics/pexels-fauxels-3184634.jpg" fig-alt="Photo of a team of several people in business suits sitting at a table discussing a report."  background-size="cover" background-position="bottom" background-repeat="no-repeat"}
 
 ::::{.notes}
 :::{style="font-size: 1.5rem;"}

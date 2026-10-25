@@ -1485,7 +1485,7 @@ Classifying large datasets according to Rubin's mechanisms is *messy*
 * Subsets of the data may fit into different mechanisms
 * Classify mechanisms for meaningful subsets of data defined by dimensions of 
   the data box (persons, variables, times) [@McKnight-RN1296] 
-* Consider structured approaches to diagnosing mechanisms [@Weberpals-RN8957]
+* Consider structured approaches to diagnosing mechanisms [@Matute-RN9101; @Weberpals-RN8957]
 :::
 
 ::::{.notes}

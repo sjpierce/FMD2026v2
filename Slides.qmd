@@ -297,8 +297,8 @@ articulated the relationship between how we handle missing data and the ethical
 quality of a study. They start from the premise that the ethical quality of an 
 analysis depends on the credibility of its assumptions.
 
-▶ They wrote that analyzing data with missing values requires making a
-ssumptions, some of which cannot be empirically tested. Which assumptions are
+▶ They wrote that analyzing data with missing values requires making w 
+assumptions, some of which cannot be empirically tested. Which assumptions are
 reasonable and defensible will vary across data sets and studies.
 
 ▶ Ultimately, scientific rigor and ethics demand using methods that can 
@@ -462,7 +462,7 @@ bias, also called the file drawer problem, on meta-analyses. We know that
 studies with non-significant findings are less likely to get published. That 
 means the published literature has a missing data problem that can seriously 
 distort the results of meta-analyses that aim to summarize results of a 
-collection of published papers. 
+collection of studies. 
 
 Finally, the big picture here is that when missing data impair generalizability, 
 we may be using inaccurate or misleading findings to inform public policy and 
@@ -1044,7 +1044,7 @@ var_missingness(boys) |>
 *Timing: ~ 39-41 min by here.*
 
 The missingness overviews tell you how many variables have missing data, but not
-which variables have it or how much is missing for each one. That's why you
+*which* variables have it or *how much* is missing for each one. That's why you
 should also examine a table of variable-level missingness statistics. This table
 shows one for the example dataset I used a couple slides ago. This can reveal
 both item and construct missingness. A variable may represent an item, a
@@ -1120,7 +1120,7 @@ documents your data collection activities. It should aim to record things like:
 * ▶ Whether & when participants attended data each collection event.
 * ▶ When, how, & why participants exit the study, whether that's because they 
   completed everything as planned, or because they withdrew partway through, 
-  you lost contact, or perhaps even became ineligible for further participation
+  you lost contact, or perhaps they became ineligible for further participation
   because of a change in circumstances. 
 
 Such a tracking system provides you with data you can analyze to get crucial 
@@ -1502,7 +1502,8 @@ feel overwhelming.
 * ▶  One way to start solving that problem is to use the dimensions of 
   Cattell's box (persons, variables, and times) to describe missing data and 
   classify missingness mechanisms in meaningful subsets of the data. 
-* ▶ Consider structured approaches to diagnosing mechanisms [@Weberpals-RN8957].
+* ▶ Consider structured approaches to diagnosing mechanisms 
+  [@Matute-RN9101; @Weberpals-RN8957].
 
 :::
 ::::

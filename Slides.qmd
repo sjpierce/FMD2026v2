@@ -297,7 +297,7 @@ articulated the relationship between how we handle missing data and the ethical
 quality of a study. They start from the premise that the ethical quality of an 
 analysis depends on the credibility of its assumptions.
 
-▶ They wrote that analyzing data with missing values requires making w 
+▶ They wrote that analyzing data with missing values requires making 
 assumptions, some of which cannot be empirically tested. Which assumptions are
 reasonable and defensible will vary across data sets and studies.
 
